@@ -35,6 +35,10 @@ Athena_Task1/
 
 ---
 
+**All files are clean, simple, and do one thing well.**  
+No extras. Just run and it works.
+---
+
 ## Setup (5 mins)
 
 1. **Install packages**
