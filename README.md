@@ -20,7 +20,7 @@
 ## Project Files
 
 
-Athena_Task1/
+Automation/
 + ├── main.py           → Run to process all pending tasks
 + ├── scheduler.py      → Auto-send report every morning
 + ├── db.py             → Save logs to database
