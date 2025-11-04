@@ -33,10 +33,7 @@ Athena_Task1/
 + ├── .env              → Your secret config
 + └── logs.db           → Created automatically
 
----
 
-**All files are clean, simple, and do one thing well.**  
-No extras. Just run and it works.
 ---
 
 ## Setup (5 mins)
