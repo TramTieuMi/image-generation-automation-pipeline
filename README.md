@@ -17,21 +17,21 @@
   - Full table
 
 ---
-
 ## Project Files
-Athena_Task1/
-├── main.py           → Run to process all pending tasks
-├── scheduler.py      → Auto-send report every morning
-├── db.py             → Save logs to database
-├── report.py         → Make HTML report + chart
-├── email_sender.py   → Send email via Gmail
-├── gsheets.py        → Read & update Google Sheet
-├── gdrive.py         → Upload file to Drive
-├── ai_client.py      → Talk to AI (Imagen 3)
-├── notifier.py       → Show alerts (console)
-├── .env              → Your secret config
-└── logs.db           → Created automatically
 
+```diff
+Athena_Task1/
++ ├── main.py           → Run to process all pending tasks
++ ├── scheduler.py      → Auto-send report every morning
++ ├── db.py             → Save logs to database
++ ├── report.py         → Make HTML report + chart
++ ├── email_sender.py   → Send email via Gmail
++ ├── gsheets.py        → Read & update Google Sheet
++ ├── gdrive.py         → Upload file to Drive
++ ├── ai_client.py      → Talk to AI (Imagen 3)
++ ├── notifier.py       → Show alerts (console)
++ ├── .env              → Your secret config
++ └── logs.db           → Created automatically
 
 ---
 
