@@ -36,7 +36,7 @@ Automation/
 
 ---
 
-## Setup (5 mins)
+## Setup 
 
 1. **Install packages**
    ```bash
